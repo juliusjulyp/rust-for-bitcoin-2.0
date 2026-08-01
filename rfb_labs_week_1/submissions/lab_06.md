@@ -58,13 +58,13 @@ The output was as:
     }
   ],
   "hex": "020000000001017becafa1467e8a4f5693f6683ed29c1a9b7cc5aa79c5d7dc26cc37ddb28c77390000000000fdffffff027c908b44000000001600149f23f1230f875720204208618156ccf28d48203300e1f50500000000160014a39dc67794b7b4ea2f6ba08fb805fa31fcda2c940247304402207257bf173798a1083affa31583f1d8ddb362fa6ea2778676695e2a6f6daed5f102203f3ae5772cc3f193f9db4360e9f1e513b8ba45a908fa5c7835a1744c8ac483a50121027364fc83502ceb92c9201132a7aff61f512941f28ecf2d9497a578ade91e69d4b7010000"
-
+}
 ```
 
 ## Evidence references
 
 Attached the evidence as follows
-![ProjectScreenshot](screenshots/Lab%206.png)
+![ProjectScreenshot](evidence/Lab%206.png)
 
 ## Explanation
 Value conservation: summing the outputs from this transaction —

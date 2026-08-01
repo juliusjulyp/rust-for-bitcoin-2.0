@@ -20,7 +20,7 @@ btc -rpcwallet=miner gettransaction 77fc470ebfc55a6ed118923afe58621b246c1748b641
 
 ## Evidence references
 
-![ProjectScreenshot](screenshots/Lab8.png)
+![ProjectScreenshot](evidence/Lab8.png)
 ## Explanation
 
 Each block header includes the hash of the *previous* block

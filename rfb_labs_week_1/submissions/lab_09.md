@@ -43,7 +43,7 @@ The Terminal output was quite long showed the proof for step 7 in screenshot bel
 
 ## Evidence references
 
-![ProjectScreenshot](screenshots/Lab%209.png)
+![ProjectScreenshot](evidence/Lab%209.png)
 
 ## Explanation
 

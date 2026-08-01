@@ -46,7 +46,7 @@ btc getblock <blockhash-from-above>
 
 ## Evidence references
 
-![ProjectScreenshot](screenshots/Lab%207.png)
+![ProjectScreenshot](evidence/Lab%207.png)
 
 ## Explanation
 

@@ -35,7 +35,7 @@ Terminal Output:
 ## Evidence references
 The screenshot for the command ran:
 
-![ProjectScreenshot](screenshots/Lab%204.png)
+![ProjectScreenshot](evidence/Lab%204.png)
 
 ## Explanation
 

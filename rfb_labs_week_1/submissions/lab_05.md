@@ -70,7 +70,7 @@ bcrt1q5wwuvau5k76w5tmt5z8msp06x87d5ty53lzafh
 
 ## Evidence references
 
-![ProjectScreenshot](screenshots/Lab%205.png)
+![ProjectScreenshot](evidence/Lab%205.png)
 
 ## Explanation
 

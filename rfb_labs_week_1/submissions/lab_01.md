@@ -49,8 +49,8 @@ NetworkSnapshot {
 TODO: Record chain, block height, and best-block hash.
 
 ## Evidence references
-![Project Screenshot](screenshots/networksnapshot.png)
-![Project Screenshot](screenshots/getblockchaininfo.png)
+![Project Screenshot](evidence/networksnapshot.png)
+![Project Screenshot](evidence/getblockchaininfo.png)
 
 TODO: Link screenshots or describe the attached evidence.
 

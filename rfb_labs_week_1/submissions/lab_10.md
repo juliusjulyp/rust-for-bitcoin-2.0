@@ -32,7 +32,7 @@ THe evidence is shown in the screenshot below
 
 ## Evidence references
 
-![ProjectScreenshot](screenshots/lab10.png)
+![ProjectScreenshot](evidence/lab10.png)
 
 ## Explanation
 

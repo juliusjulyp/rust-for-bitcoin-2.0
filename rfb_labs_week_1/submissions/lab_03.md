@@ -87,10 +87,10 @@ Insufficient funds
 
 
 ## Evidence references
-Here is the the screenshots from running the projects
+Here is the the evidence from running the projects
 
- ![ProjectScreenshots](screenshots/Lab%203a.png)
- ![ProjectScreenshots](screenshots/Lab%203b.png)
+ ![ProjectScreenshots](evidence/Lab%203a.png)
+ ![ProjectScreenshots](evidence/Lab%203b.png)
 
 
 ## Explanation
